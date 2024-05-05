@@ -1,0 +1,2 @@
+The GAN model is available at 
+https://ww2.mathworks.cn/help/deeplearning/ug/train-generative-adversarial-network.html. 
