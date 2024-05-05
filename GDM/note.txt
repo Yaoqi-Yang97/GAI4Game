@@ -1,2 +1,4 @@
 The GDM is available at 
 https://ww2.mathworks.cn/help/deeplearning/ug/generate-images-using-diffusion.html.
+
+To further customize the diffusion network, please download the pre-trained network and modify it from the above URL link.
